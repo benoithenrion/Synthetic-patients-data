@@ -1,1 +1,0 @@
-# Synthetic-patients-data
